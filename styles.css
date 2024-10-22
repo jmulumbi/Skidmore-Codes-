@@ -5,6 +5,9 @@
 
 .container{
     margin: 50%;
+    height: fit-content;
+    width:90px;
+    display: inline;
 }
 
 .button{
